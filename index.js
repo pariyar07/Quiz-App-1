@@ -20,13 +20,13 @@ function quiz(question, answer){
 }
 
 var questions = [{
-  question: "Whats my name? ", 
+  question: "Whats my name?(Satyam/Adarsh) ", 
   answer: "Satyam"
 },{
-  question: "Whats my hair color? ", 
+  question: "Whats my hair color?(Brown/Black) ", 
   answer: "Black"
 },{
-  question: "Who is my favourite footballer? ", 
+  question: "Who is my favourite footballer?(Pogba/Rooney) ", 
   answer: "Pogba"
 },{
   question: "What do I prefer?(Tea/Coffee) ", 
